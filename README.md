@@ -3,6 +3,7 @@
 - It also consists of a seperate pdf file that has answers to all the subjective questions that were given to us as part of the assignment.
 - I have done this case study as part of the Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore . 
 - Also available at :https://www.kaggle.com/antarachatterji/bike-sharing-assignment-linear-regression
+- Language used : Python for Data Science . Tools Used - MS Excel
 <div><img src="https://www.boston-discovery-guide.com/image-files/hubway-copley-square.jpg" width="500" height="300" align = "center"></img></div>
 
 # Business Problem :
