@@ -1,5 +1,6 @@
 # Bike_Sharing_Case_Study
 - This case study is based on Predictive Analysis and Linear Regression(Machine Learning)
+- It also consists of a seperate pdf file that has answers to all the subjective questions that were given to us as part of the assignment.
 - I have done this case study as part of the Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore . 
 
 <div><img src="https://www.boston-discovery-guide.com/image-files/hubway-copley-square.jpg" width="500" height="300"></img></div>
