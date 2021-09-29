@@ -2,10 +2,8 @@
 - This case study is based on Predictive Analytics and Linear Regression(Machine Learning)
 - It also consists of a seperate pdf file that has answers to all the subjective questions that were given to us as part of the assignment.
 - I have done this case study as part of the Executive PG Diploma program of UpGrad in collaboration with IIIT Bangalore . 
-
+- Also available at :https://www.kaggle.com/antarachatterji/bike-sharing-assignment-linear-regression
 <div><img src="https://www.boston-discovery-guide.com/image-files/hubway-copley-square.jpg" width="500" height="300" align = "center"></img></div>
-
-Also available at :https://www.kaggle.com/antarachatterji/bike-sharing-assignment-linear-regression
 
 # Business Problem :
 A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues due to the ongoing Corona pandemic. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state. 
